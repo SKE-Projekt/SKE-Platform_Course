@@ -51,14 +51,14 @@ Kursy mają przestrzegać odpowiędnią strukturę folderową:
     - tresc.md [pierwsza linijka zawiera w sobie tytuł kursu]
     - exer
         - [cwiczenia]
-    - POD_KURS1
+    - NO_POD_KURS1
         - tresc.md
         - exer
             - [cwiczenia]
-    - POD_KURS2
+    - NO_POD_KURS2
         - tresc.md
         - exer
-            - CWICZENIE1
+            - NO_CWICZENIE1
                 - tresc.md
                 - przyklad.ed [rozwiazanie przykladowe]
                 - wynik.out [oczekiwany wynik]
