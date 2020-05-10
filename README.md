@@ -48,7 +48,7 @@ Klasa progres_ucznia powinna posiadać:
 Kursy mają przestrzegać odpowiędnią strukturę folderową:
 ```
 - KURS
-    - tresc.md
+    - tresc.md [pierwsza linijka zawiera w sobie tytuł kursu]
     - exer
         - [cwiczenia]
     - POD_KURS1
