@@ -69,10 +69,8 @@ Kursy mają przestrzegać odpowiędnią strukturę folderową:
 ### Dodawanie kursów
 Dodawanie kursów odbywa się bezpośrednio na stronie konkursowej przyciskiem "Dodaj kurs". Należy wgrać wygenerowaną uprzednio paczkę.
 
-### Aktualizacja kursów
-Aktualizowanie kursów odbywa się na stronie głównej kursu-ojca. Należy wgrać na nowo wygenerowaną paczkę - wszystkie ćwiczenie i ich rozwiązania powinny zostać policzone na nowo.
-
-
 # TODO
+* Dodanie obsługi sprawdzarki
+* Aktualizowanie kursów odbywa się na stronie głównej kursu-ojca. Należy wgrać na nowo wygenerowaną paczkę - wszystkie ćwiczenie i ich rozwiązania powinny zostać policzone na nowo.
 * Aktualizacja kursów powinna brać pod uwagę zmiany w rozwiązaniu przykładowym podczas obliczania podglądania przed wysłaniem poprawnego rozwiązania.
 * Możliwość zaliczania na platformie rozwiązań przez nauczyciela
