@@ -8,4 +8,6 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-tar -cvf $1.tar.gz $1 $1.json
+if tar -cvf $1.tar.gz $1 $1.json; then
+    rm $1.json
+fi
