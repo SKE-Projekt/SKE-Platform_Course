@@ -1,0 +1,6 @@
+# Kod Przykładowy
+# SKE Projekt
+
+Int zmienna;
+Read(zmienna);
+Print(zmienna / 2);
