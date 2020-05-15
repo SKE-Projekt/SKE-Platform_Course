@@ -1,0 +1,11 @@
+# Kod startowy
+# SKE Projekt
+
+Function nie_dzialajaca_funkcja(arg1, Int) :
+    12 + Len(arg1) + arg2;
+EndFunction
+
+String a;
+Int b;
+Read(a, b);
+Print(nie_dzialajaca_funkcja(a, b));
