@@ -1,0 +1,7 @@
+# Kod startowy
+# SKE Projekt
+
+Print(5 > 6);
+Print(3 eq 4);
+Print(2 neq 2);
+Print(neq 1);

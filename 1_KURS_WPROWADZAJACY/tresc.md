@@ -9,6 +9,6 @@ Kurs podzielony jest na działy, które zawierają w sobie część teoretyczną
 W razie jakichkolwiek problemów napisz do nas:
 
 - [ EMAIL ] : skeprojekt@gmail.com
-- [ DISCORD ] : https://discord.gg/bAbbW69
+- [ DISCORD ] : [https://discord.gg/bAbbW69](https://discord.gg/bAbbW69)
 
 Powodzenia!
