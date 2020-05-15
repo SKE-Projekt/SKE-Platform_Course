@@ -9,5 +9,6 @@ if [ $? -ne 0 ]; then
 fi
 
 if tar -cvf $1.tar.gz $1 $1.json; then
+    # cat $1.json
     rm $1.json
 fi

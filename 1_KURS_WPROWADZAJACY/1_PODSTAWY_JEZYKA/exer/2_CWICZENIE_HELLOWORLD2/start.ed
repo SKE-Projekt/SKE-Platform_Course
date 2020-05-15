@@ -1,0 +1,3 @@
+# To jest komentarz
+# Komentarz jest pomijany
+Print("Witaj, świecie!");
