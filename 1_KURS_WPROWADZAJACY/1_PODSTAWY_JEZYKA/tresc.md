@@ -6,6 +6,8 @@ Jednak celem Edlanga nie jest bycie nowym narzędziem zahardzonego programisty. 
 
 Wszystkie jego konstrukcję powinny być przejrzyste i zrozumiałe - zwłaszcza dla początkujących.
 
+Edlang może być rozumiany jako lista instrukcji wykonywanych przez komputerów.
+
 _
 
 Przed przejściem do tego jak Edlang wygląda chcemy rozjaśnić niezaznajomionym osobom pojęcie *wejścia* i *wyjścia*.
@@ -19,3 +21,5 @@ _
 Mając to w pamięci zapraszamy do spojrzenia ćwiczenia dodane do działu. Gorąco zachęcamy do skopiowania przygotowanego kodu i wypróbowania go w [naszym sandboxie](/sandbox). Eksperymentowanie jest bardzo ważnym elementem nauki.
 
 Kiedy skończysz sprawdzanie kodu do danego ćwiczenia prześlij jego rozwiązanie i przejdź do następnego działu.
+
+[ WAŻNE ] Edlang wymaga aby (prawie) każda instrukcja kończyła się znakiem średnika(;). W ten sposób oddziela on od siebie różne instrukcje.
