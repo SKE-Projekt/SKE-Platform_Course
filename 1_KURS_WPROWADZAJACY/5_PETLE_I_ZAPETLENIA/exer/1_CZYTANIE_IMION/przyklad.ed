@@ -1,0 +1,12 @@
+# Kod Przykładowy
+# SKE Projekt
+
+Int liczba_imion;
+Read(liczba_imion);
+
+Loop(liczba_imion > 0)
+    String imie;
+    Read(imie);
+    Print(imie);
+    liczba_imion = liczba_imion - 1;
+EndLoop
