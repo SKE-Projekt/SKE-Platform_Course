@@ -38,6 +38,8 @@ W programowaniu mamy również coś takiego jak operacje logiczne. Polegają one
 4. Czy dana wartość jest mniejsza od innej, <
 5. Czy dana wartość jest mniejsza od lub równa innej, leq
 6. Czy dana wartość jest większa od lub równa innej, geq
+7. Czy obie dane wartości logiczne są prawdzie, and
+8. Czy dowolna z danych wartości logicznych jest prawdziwa, or
 
 W przypadku Stringów i List pod uwagę brana jest ich długość(liczba elementów, z których się składają).
 
