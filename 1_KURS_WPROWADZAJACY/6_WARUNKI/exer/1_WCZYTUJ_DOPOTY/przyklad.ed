@@ -1,0 +1,14 @@
+# Kod Przykładowy
+# SKE Projekt
+
+String k;
+Int czytaj_dalej = 1;
+
+Loop(czytaj_dalej eq 1)
+    Read(k);
+    If (k eq "STOP")
+        czytaj_dalej = 0;
+    Else
+        Print(k);
+    EndIf
+EndLoop

@@ -18,7 +18,7 @@ przykład pętli wypisującej Cześć! 10 razy
         k = k - 1; # Ważna cześć, bez tego nasza pętla będzie się wykonywać w nieskończoność
     EndLoop
 
-#### Scope - co to?
+### Scope - co to?
 Pętla jest specjalną, blokową konstrukcją języka. W Edlangu wszystkie blokowe konstrukcję tworzą własny scope co oznacza, że zmienne stworzone w środku ich ciała po wyjściu z niego przestają istnieć.
 
     Int k = 0;
